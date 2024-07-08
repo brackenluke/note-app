@@ -34,7 +34,7 @@ Notes Page
 ![](./public/assets/images/notespage.PNG)
 
 ## Deployment
-
+https://github.com/brackenluke/note-app
 
 ## Contact
 
