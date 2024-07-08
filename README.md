@@ -3,6 +3,9 @@
 ## Description
 This application is used for creating and saving notes. I learned a lot during the process about creating routes, and how to access the backend.
 
+## How to use
+Make sure you have node installed. Open the project. Find the "note-app" folder and open it in your terminal. Type "npm i" then "node server.js" to start the server. Naviagte to your browser and type "[localhost](http://localhost:3001/)"
+
 ## User Story
 AS A small business owner<br />
 I WANT to be able to write and save notes<br />
