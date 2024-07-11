@@ -3,6 +3,9 @@
 ## Description
 This application is used for creating and saving notes. I learned a lot during the process about creating routes, and how to access the backend.
 
+## Credits
+Some of the code I used is from another project. I used this github repo as an example to help: https://github.com/viakeegan/notes-are-kee.
+
 ## How to use
 Make sure you have node installed. Open the project. Find the "note-app" folder and open it in your terminal. Type "npm i" then "node server.js" to start the server. Naviagte to your browser and type "[localhost](http://localhost:3001/)"
 
